@@ -87,7 +87,7 @@ Coffee Level: Critical [▮▮▮▮▮▮▮▮▯] 90%
 ### ── [ ENGINE LANGUAGES ] ──
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=00f0ff&labelColor=0d0e15)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff&labelColor=0d0e15)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=00f0ff&labelColor=0d0e15)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=00ffcc&labelColor=0d0e15)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=00f0ff&labelColor=0d0e15)
 ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=00f0ff&labelColor=0d0e15)
 
@@ -122,7 +122,7 @@ Coffee Level: Critical [▮▮▮▮▮▮▮▮▯] 90%
   <tr>
     <td align="center" width="50%">
       <b>🤖 GITHUB TRANSMISSION RATE</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=joshylak&show_icons=true&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff&hide_border=false&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-git.vercel.app/api?username=joshylak&show_icons=true&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff&hide_border=false&count_private=true" width="100%" />
     </td>
     <td align="center" width="50%">
       <b>🔥 NEURAL ENERGY / STREAK DIAGNOSTICS</b><br><br>
@@ -130,13 +130,9 @@ Coffee Level: Critical [▮▮▮▮▮▮▮▮▯] 90%
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <b>🚀 SECTOR COMPOSITION</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshylak&layout=donut&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&title_color=00f0ff&text_color=ffffff&langs_count=8" width="90%" />
-    </td>
-    <td align="center">
-      <b>🏆 NEURAL COGNITION SCORE (LEETCODE)</b><br><br>
-      <img src="https://leetcard.jacoblin.cool/biglaksthedev?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=15" width="100%" />
+      <img src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=joshylak&layout=donut&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&title_color=00f0ff&text_color=ffffff&langs_count=8" width="60%" />
     </td>
   </tr>
 </table>
@@ -157,24 +153,24 @@ Coffee Level: Critical [▮▮▮▮▮▮▮▮▯] 90%
   <tr>
     <td>
       <a href="https://github.com/joshylak/100-backend-projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=100-backend-projects&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff" />
+        <img src="https://github-readme-stats-git.vercel.app/api/pin/?username=joshylak&repo=100-backend-projects&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff" />
       </a>
     </td>
     <td>
       <a href="https://github.com/joshylak/Comprehensive_Statement-analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=Comprehensive_Statement-analysis&theme=tokyonight&bg_color=0d0e15&border_color=ff007f&icon_color=00f0ff&title_color=ff007f&text_color=ffffff" />
+        <img src="https://github-readme-stats-git.vercel.app/api/pin/?username=joshylak&repo=Comprehensive_Statement-analysis&theme=tokyonight&bg_color=0d0e15&border_color=ff007f&icon_color=00f0ff&title_color=ff007f&text_color=ffffff" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/joshylak/real-estate-backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=real-estate-backend&theme=tokyonight&bg_color=0d0e15&border_color=ff007f&icon_color=00f0ff&title_color=ff007f&text_color=ffffff" />
+        <img src="https://github-readme-stats-git.vercel.app/api/pin/?username=joshylak&repo=real-estate-backend&theme=tokyonight&bg_color=0d0e15&border_color=ff007f&icon_color=00f0ff&title_color=ff007f&text_color=ffffff" />
       </a>
     </td>
     <td>
       <a href="https://github.com/joshylak/fx-sentinent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=fx-sentinent&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff" />
+        <img src="https://github-readme-stats-git.vercel.app/api/pin/?username=joshylak&repo=fx-sentinent&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff" />
       </a>
     </td>
   </tr>
@@ -185,16 +181,19 @@ Coffee Level: Critical [▮▮▮▮▮▮▮▮▯] 90%
 ---
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                PAC-MAN & DYNAMIC CYBER ANIMATION             -->
+<!--                CYBER INFOGRAPHICS & MATRIX CODE               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## ⚡ Matrix Core Activity
+## 📊 Cybernetic Diagnostics Matrix
 
 <div align="center">
 
-[![Pac Man Grid](https://pacman.ghostramses.com/api/pacman?user=joshylak&size=6&speed=8&dotColor=00f0ff&backgroundColor=0d0e15&cherryColor=ff007f)](https://github.com/joshylak)
+<!-- Futuristic lowlighter metrics card -->
+<img src="https://metrics.lecoq.io/joshylak?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=UTC" width="100%" alt="Advanced Core Systems Infographics" />
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Cyberpunk Matrix Terminal Screen" />
+<br><br>
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix rain visualization" />
 
 </div>
 
