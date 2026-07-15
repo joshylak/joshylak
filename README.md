@@ -1,154 +1,237 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:00ffcc,100:7b2fff&height=220&section=header&text=BIG%20LAKS%20THE%20DEV&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Specialist&descSize=20&descAlignY=58&animation=fadeIn)
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                CYBERNETIC SYSTEM IDENTITY BANNER             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=700&lines=🧠+Building+intelligent+backends...;🐍+Python+%7C+🟢+Node.js+%7C+🐘+PHP;🤖+AI+%2F+ML+Engineer+%26+API+Architect;⚡+Turning+ideas+into+scalable+systems;🚀+Clean+Code+%7C+Fast+APIs+%7C+Smart+Models)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0d0e15&height=180&section=header&text=BIG%20LAKS%20THE%20DEV&fontSize=70&fontColor=00f0ff&fontAlignY=35&desc=SENIOR%20BACKEND%20ARCHITECT%20%7C%20AI%20SPECIALIST&descSize=16&descColor=ff007f&descAlignY=65&animation=twinkling)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=00F0FF&center=true&vCenter=true&random=false&width=800&height=50&lines=⚡+SYSTEM+STATUS%3A+ACTIVE;🤖+COGNITIVE+ENGINEERING%3A+LangChain+%7C+OpenAI+%7C+RAG;🐍+CORE+LAYER%3A+Python+%7C+FastAPI+%7C+PyTorch;🟢+SUB-RUNTIME%3A+Node.js+%7C+Express+%7C+TypeScript;🐘+LEGACY+HYPERVISOR%3A+PHP+%7C+Laravel+%7C+Swoole;🚀+DOCKERIZED+MICROSERVICES+%7C+AWS+%7C+VECTOR+DBS)](https://git.io/typing-svg)
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding gif" />
+</div>
+
+<div align="center">
+
+```text
+ ┌────────────────────────────────────────────────────────────────────────┐
+ │   SYSTEM DIAGNOSTICS: ONLINE  //  NODE: joshylak-core-node-01          │
+ ├────────────────────────────────────────────────────────────────────────┤
+ │  [●] COGNITIVE:   AI Agents | LLM Fine-Tuning | Vector Search (Chroma) │
+ │  [●] BACKEND:     Architecting High-Throughput APIs & Distributed DBs  │
+ │  [●] ARCHITECTURE: Microservices | Event-Driven (Kafka) | Dockerization│
+ └────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-### 🛸 `whoami`
+<br>
 
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+### 🛸 `systemctl status joshylak`
 ```bash
-$ cat about.json
+$ neofetch --profile
 ```
+```yaml
+joshylak@neural-core
+--------------------
+OS: Arch Linux x86_64
+Kernel: 6.9.1-zen-cyberpunk
+Shell: zsh (Powerlevel10k)
+Role: Senior Backend & AI Engineer
+Location: Decentralized / Remote
+Primary Stack: Python / Node.js / PHP
+Current Goal: Building Autonomous Agent Frameworks
+Status: [SHIPPING_PRODUCTION_CODE]
+Coffee Level: Critical [▮▮▮▮▮▮▮▮▯] 90%
+```
+    </td>
+    <td width="45%" valign="top">
 
+### 🧠 Core Cognitive Stack
 ```json
 {
-  "name": "BIG LAKS THE DEV",
-  "role": "Backend Developer & AI Specialist",
-  "location": "🌍 Earth",
-  "languages": ["Python", "Node.js", "PHP"],
-  "focus": ["REST APIs", "AI/ML", "System Design", "Microservices"],
-  "currently_building": "Something insanely cool 🔥",
-  "learning": ["LLM fine-tuning", "Vector DBs", "Rust"],
-  "available_for": "Freelance & Collaboration",
-  "coffee_per_day": "∞"
+  "backends": {
+    "primary": "Python (FastAPI, Django)",
+    "secondary": "Node.js (Express, NestJS)",
+    "tertiary": "PHP (Laravel, Swoole)"
+  },
+  "databases": [
+    "PostgreSQL", "Redis", 
+    "MongoDB", "ChromaDB"
+  ],
+  "intelligence": [
+    "LangChain", "OpenAI API", 
+    "PyTorch", "RAG Pipelines"
+  ]
 }
 ```
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    CYBER BADGES & ENGINE MODULES              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🧬 Cybernetic Tech Arsenal
 
 <div align="center">
 
----
+### ── [ ENGINE LANGUAGES ] ──
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=00f0ff&labelColor=0d0e15)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff&labelColor=0d0e15)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=00f0ff&labelColor=0d0e15)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=00f0ff&labelColor=0d0e15)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=00f0ff&labelColor=0d0e15)
 
-## 🧬 Tech Arsenal
+### ── [ NEURAL NETWORKS & COGNITION ] ──
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=ff007f&labelColor=0d0e15)
+![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=00f0ff&labelColor=0d0e15)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ff007f&labelColor=0d0e15)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=00f0ff&labelColor=0d0e15)
+![Hugging Face](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=ff007f&labelColor=0d0e15)
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-0d0d1a?style=for-the-badge&logo=python&logoColor=00ffcc)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=for-the-badge&logo=nodedotjs&logoColor=00ffcc)
-![PHP](https://img.shields.io/badge/PHP-0d0d1a?style=for-the-badge&logo=php&logoColor=00ffcc)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=00ffcc)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=for-the-badge&logo=typescript&logoColor=00ffcc)
-![Bash](https://img.shields.io/badge/Bash-0d0d1a?style=for-the-badge&logo=gnubash&logoColor=00ffcc)
+### ── [ FRAMEWORKS & COMPILING RUNTIMES ] ──
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=00f0ff&labelColor=0d0e15)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=ff007f&labelColor=0d0e15)
+![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=00f0ff&labelColor=0d0e15)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=ff007f&labelColor=0d0e15)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=00f0ff&labelColor=0d0e15)
+![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=ff007f&labelColor=0d0e15)
 
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1a?style=for-the-badge&logo=tensorflow&logoColor=00ffcc)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d1a?style=for-the-badge&logo=pytorch&logoColor=00ffcc)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d1a?style=for-the-badge&logo=scikitlearn&logoColor=00ffcc)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1a?style=for-the-badge&logo=openai&logoColor=00ffcc)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=for-the-badge&logo=chainlink&logoColor=00ffcc)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0d0d1a?style=for-the-badge&logo=huggingface&logoColor=00ffcc)
-
-### ⚙️ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d1a?style=for-the-badge&logo=fastapi&logoColor=00ffcc)
-![Django](https://img.shields.io/badge/Django-0d0d1a?style=for-the-badge&logo=django&logoColor=00ffcc)
-![Express](https://img.shields.io/badge/Express-0d0d1a?style=for-the-badge&logo=express&logoColor=00ffcc)
-![Laravel](https://img.shields.io/badge/Laravel-0d0d1a?style=for-the-badge&logo=laravel&logoColor=00ffcc)
-![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=00ffcc)
-![Redis](https://img.shields.io/badge/Redis-0d0d1a?style=for-the-badge&logo=redis&logoColor=00ffcc)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=00ffcc)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d1a?style=for-the-badge&logo=mongodb&logoColor=00ffcc)
-![GraphQL](https://img.shields.io/badge/GraphQL-0d0d1a?style=for-the-badge&logo=graphql&logoColor=00ffcc)
-![Nginx](https://img.shields.io/badge/Nginx-0d0d1a?style=for-the-badge&logo=nginx&logoColor=00ffcc)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-0d0d1a?style=for-the-badge&logo=amazonaws&logoColor=00ffcc)
-![GCP](https://img.shields.io/badge/GCP-0d0d1a?style=for-the-badge&logo=googlecloud&logoColor=00ffcc)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d1a?style=for-the-badge&logo=githubactions&logoColor=00ffcc)
-![Linux](https://img.shields.io/badge/Linux-0d0d1a?style=for-the-badge&logo=linux&logoColor=00ffcc)
+</div>
 
 ---
 
-## 📊 GitHub Stats Matrix
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                GRID SYSTEM MONITORING DASHBOARD               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=joshylak&show_icons=true&theme=radical&bg_color=0d0d1a&border_color=00ffcc&icon_color=7b2fff&title_color=00ffcc&text_color=ffffff&hide_border=false&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=joshylak&theme=radical&background=0d0d1a&border=00ffcc&ring=7b2fff&fire=00ffcc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffcc&sideLabels=7b2fff&dates=888888" width="48%" />
+## 📊 Telemetry Dashboard
 
-<br/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshylak&layout=donut&theme=radical&bg_color=0d0d1a&border_color=00ffcc&title_color=00ffcc&text_color=ffffff&langs_count=8" width="38%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshylak&theme=radical&utcOffset=1" width="57%" />
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <b>🤖 GITHUB TRANSMISSION RATE</b><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=joshylak&show_icons=true&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff&hide_border=false&count_private=true" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>🔥 NEURAL ENERGY / STREAK DIAGNOSTICS</b><br><br>
+      <img src="https://streak-stats.demolab.com/?user=joshylak&theme=tokyonight&background=0d0e15&border=00f0ff&ring=ff007f&fire=ff007f&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f0ff&sideLabels=ff007f&dates=888888" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🚀 SECTOR COMPOSITION</b><br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshylak&layout=donut&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&title_color=00f0ff&text_color=ffffff&langs_count=8" width="90%" />
+    </td>
+    <td align="center">
+      <b>🏆 NEURAL COGNITION SCORE (LEETCODE)</b><br><br>
+      <img src="https://leetcard.jacoblin.cool/biglaksthedev?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=15" width="100%" />
+    </td>
+  </tr>
+</table>
 
----
-
-## 🧩 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/biglaksthedev?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20)
-
----
-
-## 🚀 Featured Projects
-
-<a href="https://github.com/joshylak/100-backend-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=100-backend-projects&theme=radical&bg_color=0d0d1a&border_color=00ffcc&icon_color=7b2fff&title_color=00ffcc&text_color=ffffff" />
-</a>
-<a href="https://github.com/joshylak/Comprehensive_Statement-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=Comprehensive_Statement-analysis&theme=radical&bg_color=0d0d1a&border_color=00ffcc&icon_color=7b2fff&title_color=00ffcc&text_color=ffffff" />
-</a>
-
-<br/>
-
-<a href="https://github.com/joshylak/real-estate-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=real-estate-backend&theme=radical&bg_color=0d0d1a&border_color=00ffcc&icon_color=7b2fff&title_color=00ffcc&text_color=ffffff" />
-</a>
-<a href="https://github.com/joshylak/fx-sentinent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=fx-sentinent&theme=radical&bg_color=0d0d1a&border_color=00ffcc&icon_color=7b2fff&title_color=00ffcc&text_color=ffffff" />
-</a>
+</div>
 
 ---
 
-## ⚡ System Activity — Matrix Feed
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    PROJECT PINS DEPLOYED                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix Rain Animation" />
+## 🚀 Deployed Sub-Systems (Featured Projects)
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/joshylak/100-backend-projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=100-backend-projects&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/joshylak/Comprehensive_Statement-analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=Comprehensive_Statement-analysis&theme=tokyonight&bg_color=0d0e15&border_color=ff007f&icon_color=00f0ff&title_color=ff007f&text_color=ffffff" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/joshylak/real-estate-backend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=real-estate-backend&theme=tokyonight&bg_color=0d0e15&border_color=ff007f&icon_color=00f0ff&title_color=ff007f&text_color=ffffff" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/joshylak/fx-sentinent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshylak&repo=fx-sentinent&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 🖥️ System Status
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                PAC-MAN & DYNAMIC CYBER ANIMATION             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&labelColor=0d0d1a)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%2B%20Backend-7b2fff?style=for-the-badge&labelColor=0d0d1a)
-![Mode](https://img.shields.io/badge/MODE-SHIPPING%20🔥-00ffcc?style=for-the-badge&labelColor=0d0d1a)
-![Open To](https://img.shields.io/badge/OPEN%20TO-Freelance-7b2fff?style=for-the-badge&labelColor=0d0d1a)
+## ⚡ Matrix Core Activity
 
----
+<div align="center">
 
-## 📈 Contribution Graph
+[![Pac Man Grid](https://pacman.ghostramses.com/api/pacman?user=joshylak&size=6&speed=8&dotColor=00f0ff&backgroundColor=0d0e15&cherryColor=ff007f)](https://github.com/joshylak)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joshylak&bg_color=0d0d1a&color=00ffcc&line=7b2fff&point=00ffcc&area=true&area_color=7b2fff&hide_border=false&border_color=00ffcc)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Cyberpunk Matrix Terminal Screen" />
 
----
-
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joshylak&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ACTIVITY & STABILITY PLOTS                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=00ffcc)](https://linkedin.com/in/oluwafunmilakin-adeyemo)
-[![Twitter](https://img.shields.io/badge/Twitter-0d0d1a?style=for-the-badge&logo=x&logoColor=00ffcc)](https://twitter.com/Laksthede)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=vercel&logoColor=00ffcc)](https://biglaks.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=00ffcc)](mailto:adeyemolakin@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0d0d1a?style=for-the-badge&logo=devdotto&logoColor=00ffcc)](https://dev.to/joshylak)
+## 📈 Cognitive Stability Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joshylak&bg_color=0d0e15&color=00f0ff&line=ff007f&point=00f0ff&area=true&area_color=ff007f&hide_border=false&border_color=00f0ff)](https://github.com/joshylak)
+
+</div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=joshylak&style=for-the-badge&color=00ffcc&labelColor=0d0d1a&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/joshylak?style=for-the-badge&color=00ffcc&labelColor=0d0d1a&logo=github)
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                SOCIAL BEACONS & INTERFACE PORTS               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🌐 Secure Communications Interface
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/INTERFACE_01_-_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0d0e15)](https://linkedin.com/in/oluwafunmilakin-adeyemo)
+[![Twitter](https://img.shields.io/badge/INTERFACE_02_-_TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=ff007f&labelColor=0d0e15)](https://twitter.com/Laksthede)
+[![Portfolio](https://img.shields.io/badge/INTERFACE_03_-_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00f0ff&labelColor=0d0e15)](https://biglaks.netlify.app/)
+[![Email](https://img.shields.io/badge/INTERFACE_04_-_SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=ff007f&labelColor=0d0e15)](mailto:adeyemolakin@gmail.com)
+[![Dev.to](https://img.shields.io/badge/INTERFACE_05_-_DEV_PORTAL-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=00f0ff&labelColor=0d0e15)](https://dev.to/joshylak)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=joshylak&style=for-the-badge&color=ff007f&labelColor=0d0e15&label=TELEMETRY+PULSES+RESTRICTED)
+![GitHub followers](https://img.shields.io/github/followers/joshylak?style=for-the-badge&color=00f0ff&labelColor=0d0e15&logo=github)
 
 </div>
 
@@ -156,6 +239,6 @@ $ cat about.json
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00ffcc,100:0d0d1a&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0e15,50:00f0ff,100:ff007f&height=120&section=footer)
 
 </div>
