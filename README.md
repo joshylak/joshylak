@@ -1,22 +1,10 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                      -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:00ffcc,100:7b2fff&height=220&section=header&text=BIG%20LAKS%20THE%20DEV&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Specialist&descSize=20&descAlignY=58&animation=fadeIn)
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=700&lines=🧠+Building+intelligent+backends...;🐍+Python+%7C+🟢+Node.js+%7C+🐘+PHP;🤖+AI+%2F+ML+Engineer+%26+API+Architect;⚡+Turning+ideas+into+scalable+systems;🚀+Clean+Code+%7C+Fast+APIs+%7C+Smart+Models)](https://git.io/typing-svg)
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding gif" />
 
@@ -46,10 +34,6 @@ $ cat about.json
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    SKILL BADGES                                -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 ## 🧬 Tech Arsenal
 
 ### 🐍 Languages
@@ -63,7 +47,7 @@ $ cat about.json
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d1a?style=for-the-badge&logo=tensorflow&logoColor=00ffcc)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d1a?style=for-the-badge&logo=pytorch&logoColor=00ffcc)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0d0d1a?style=for-the-badge&logo=scikitlearn&logoColor=00ffcc)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d1a?style=for-the-badge&logo=scikitlearn&logoColor=00ffcc)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1a?style=for-the-badge&logo=openai&logoColor=00ffcc)
 ![LangChain](https://img.shields.io/badge/LangChain-0d0d1a?style=for-the-badge&logo=chainlink&logoColor=00ffcc)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-0d0d1a?style=for-the-badge&logo=huggingface&logoColor=00ffcc)
@@ -88,14 +72,10 @@ $ cat about.json
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                                -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats Matrix
 
 <img src="https://github-readme-stats.vercel.app/api?username=joshylak&show_icons=true&theme=radical&bg_color=0d0d1a&border_color=00ffcc&icon_color=7b2fff&title_color=00ffcc&text_color=ffffff&hide_border=false&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshylak&theme=radical&background=0d0d1a&border=00ffcc&ring=7b2fff&fire=00ffcc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffcc&sideLabels=7b2fff&dates=888888" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=joshylak&theme=radical&background=0d0d1a&border=00ffcc&ring=7b2fff&fire=00ffcc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffcc&sideLabels=7b2fff&dates=888888" width="48%" />
 
 <br/>
 
@@ -104,19 +84,11 @@ $ cat about.json
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    LEETCODE / CODING STATS                     -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 ## 🧩 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/biglaksthedev?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20)
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    PROJECT SHOWCASE                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
@@ -138,33 +110,20 @@ $ cat about.json
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION ACTIVITY                       -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+## ⚡ System Activity — Matrix Feed
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-snake.vercel.app/api/snake?username=joshylak&bg_color=0d0d1a&dot_color=00ffcc&head_color=7b2fff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-snake.vercel.app/api/snake?username=joshylak" />
-  <img alt="github-snake" src="https://github-readme-snake.vercel.app/api/snake?username=joshylak&bg_color=0d0d1a&dot_color=00ffcc&head_color=7b2fff" />
-</picture>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" alt="Matrix Rain Animation" />
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    SPOTIFY NOW PLAYING                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+## 🖥️ System Status
 
-## 🎵 Now Playing
-
-[![Spotify](https://novatorem-joshylak.vercel.app/api/spotify)](https://open.spotify.com/user/Oluwafunmilakin)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&labelColor=0d0d1a)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%2B%20Backend-7b2fff?style=for-the-badge&labelColor=0d0d1a)
+![Mode](https://img.shields.io/badge/MODE-SHIPPING%20🔥-00ffcc?style=for-the-badge&labelColor=0d0d1a)
+![Open To](https://img.shields.io/badge/OPEN%20TO-Freelance-7b2fff?style=for-the-badge&labelColor=0d0d1a)
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 📈 Contribution Graph
 
@@ -172,19 +131,11 @@ $ cat about.json
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VIEWS & TROPHIES                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 ## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joshylak&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT                                     -->
-<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect With Me
 
@@ -200,66 +151,6 @@ $ cat about.json
 ![GitHub followers](https://img.shields.io/github/followers/joshylak?style=for-the-badge&color=00ffcc&labelColor=0d0d1a&logo=github)
 
 </div>
-
----
-
-<details>
-<summary>⚙️ Snake Animation Setup (click to expand)</summary>
-
-### 🐍 How to Enable the Snake
-
-1. Create repo `joshylak/joshylak` (your profile repo) if it doesn't exist.
-2. Add this file: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Go to **Actions** tab → run the workflow manually once.
-4. It auto-runs every 12 hours from then on.
-
-</details>
-
-<details>
-<summary>🎵 Spotify Now Playing Setup (click to expand)</summary>
-
-### Spotify Now Playing Setup
-
-1. Fork [novatorem/novatorem](https://github.com/novatorem/novatorem)
-2. Create a Spotify Developer App at [developer.spotify.com](https://developer.spotify.com/dashboard)
-3. Deploy to [Vercel](https://vercel.com) with these env vars:
-   - `SPOTIFY_CLIENT_ID`
-   - `SPOTIFY_CLIENT_SECRET`
-   - `SPOTIFY_REFRESH_TOKEN`
-4. Update the Spotify badge URL in this README to your Vercel deployment URL.
-
-</details>
 
 ---
 
