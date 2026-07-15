@@ -122,7 +122,7 @@ Coffee Level: Critical [▮▮▮▮▮▮▮▮▯] 90%
   <tr>
     <td align="center" width="50%">
       <b>🤖 GITHUB TRANSMISSION RATE</b><br><br>
-      <img src="https://github-readme-stats-git.vercel.app/api?username=joshylak&show_icons=true&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff&hide_border=false&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-git.vercel.app/api?username=joshylak&show_icons=true&theme=tokyonight&bg_color=0d0e15&border_color=00f0ff&icon_color=ff007f&title_color=00f0ff&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" width="100%" />
     </td>
     <td align="center" width="50%">
       <b>🔥 NEURAL ENERGY / STREAK DIAGNOSTICS</b><br><br>
@@ -136,6 +136,23 @@ Coffee Level: Critical [▮▮▮▮▮▮▮▮▯] 90%
     </td>
   </tr>
 </table>
+
+```text
+ ┌────────────────────────────────────────────────────────────────────────┐
+ │  ⚠️  SYSTEM NOTICE: DETECTED TELEMETRY DESYNC                          │
+ │                                                                        │
+ │  By default, public API nodes can only query public profile metadata.  │
+ │  If your total repo count (40+) or organization stats are missing:     │
+ │                                                                        │
+ │  1. Set Organization memberships to PUBLIC:                            │
+ │     https://github.com/orgs/<your-org-name>/people                     │
+ │     (Find your profile and change visibility from 'Private' to 'Public') │
+ │                                                                        │
+ │  2. Enable private contributions on your profile:                      │
+ │     GitHub Settings -> Profile -> Contributions ->                     │
+ │     [x] Include private contributions on my profile                    │
+ └────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
